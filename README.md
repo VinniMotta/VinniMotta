@@ -16,4 +16,3 @@
 
 **Apaixonado por tecnologia, sempre buscando aprender e evoluir no desenvolvimento de sistemas. 🚀**
 
-### Email de contato: vmota0312@hotmail.com
