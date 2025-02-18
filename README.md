@@ -14,5 +14,6 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 
+
 **Apaixonado por tecnologia, sempre buscando aprender e evoluir no desenvolvimento de sistemas. 🚀**
 
