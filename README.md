@@ -5,7 +5,6 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=VinniMotta&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinniMotta&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VinniMotta)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Tecnologias que sou familiarizado** 💻
 <div style="display: inline_block"> 
