@@ -1,4 +1,4 @@
-## **Me chamo Vinicius Mota** 👋
+## **Me chamo Vinicius Mota**
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciussssmota/)
 
@@ -6,7 +6,7 @@
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=VinniMotta&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinniMotta&layout=compact)
 
-## **Tecnologias que sou familiarizado** 💻
+## **Tecnologias que sou familiarizado** 
 <div style="display: inline_block"> 
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -16,5 +16,5 @@
 </div></br>
 
 
-**Apaixonado por tecnologia, sempre buscando aprender e evoluir no desenvolvimento de sistemas. 🚀**
+**Apaixonado por tecnologia, sempre buscando aprender e evoluir no desenvolvimento de sistemas.**
 
